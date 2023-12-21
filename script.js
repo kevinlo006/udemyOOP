@@ -1,3 +1,4 @@
+//kevin lo
 function Player(name){
     this.name=name;
     this.lvl=1;
